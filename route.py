@@ -1,6 +1,4 @@
 ############################################################################################################################################
-# Ref:- http://www.interactivepython.org;refered for understanding how to create/use the graph DS
-#
 #1. Formulation of problem:
 #
 #       a) Formulation of the search problem: 
